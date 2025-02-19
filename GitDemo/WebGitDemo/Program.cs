@@ -15,6 +15,7 @@ namespace WebGitDemo
         {
             CreateHostBuilder(args).Build().Run();
             //Important comment from Alexander
+            //another
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
